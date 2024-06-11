@@ -34,7 +34,9 @@ Total cost: ~$200. Only cost is Lenovo laptop.
 - "Gray Hat Python: Python Programming for Hackers and Reverse Engineers" by Justin Seitz
 - "Practical Python Programming for IoT, AI, and Cybersecurity" by Sunil Cheruvu, Anil Kumar, Ned Smith, and David Wheeler
 
-# Course outline
+# Python Course outline
+
+This is a year-long Python programming course. It does not cover Hackthebox labs.
 
 ## Quarter 1: Introduction to Python Programming
 
@@ -157,6 +159,7 @@ This outline provides a structured path through both Python programming and cybe
 
 # 6-Month Course Outline: Python Programming and Cybersecurity with Hack The Box
 
+This is a 6-month accelerated course plan. It covers both Python programming and hackthebox.
 
 ## Month 1: Foundations of Python and Cybersecurity
 Books: "Python Crash Course" by Eric Matthes & "Black Hat Python" by Justin Seitz
