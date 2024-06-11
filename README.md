@@ -58,7 +58,8 @@ Books: "Python Crash Course" by Eric Matthes & "Automate the Boring Stuff with P
     Chapter 7: User Input and while Loops
     Chapter 8: Functions
     Chapter 9: Classes
-    Week 9-12: Automating Tasks
+    
+### Week 9-12: Automating Tasks
 
     Automate the Boring Stuff with Python (Chapters 1-6)
     Chapter 1: Python Basics
@@ -77,6 +78,7 @@ Books: "Python Crash Course" by Eric Matthes & "Invent Your Own Computer Games w
     Python Crash Course: Part II (Chapters 18-19)
     Chapter 18: Getting Started with Django
     Chapter 19: User Accounts
+    
 ### Week 17-20: Game Development
 
     Invent Your Own Computer Games with Python (Chapters 1-8)
@@ -156,7 +158,6 @@ Work on a comprehensive capstone project integrating Python programming and cybe
 Review key topics and prepare a presentation or report on the project.
 This outline provides a structured path through both Python programming and cybersecurity, with a focus on hands-on projects to solidify learning.
 
-
 # 6-Month Course Outline: Python Programming and Cybersecurity with Hack The Box
 
 This is a 6-month accelerated course plan. It covers both Python programming and hackthebox.
@@ -179,8 +180,8 @@ Books: "Python Crash Course" by Eric Matthes & "Black Hat Python" by Justin Seit
     Chapter 1: Setting Up Your Python Environment
     Chapter 2: Network Sockets
     Chapter 3: Using Python to Execute System Commands
-    Hack The Box Labs:
     
+    Hack The Box Labs:
     Complete HTB Starting Point labs to get familiar with the platform and basic penetration testing concepts.
 
 ## Month 2: Intermediate Python and Network Security
