@@ -20,6 +20,13 @@ Total cost: ~$210. Only cost is a Lenovo laptop and a Linux USB to install Fedor
 - code editor: https://code.visualstudio.com/
 - network scanner: https://nmap.org/
 
+# Discord
+
+For asking for help and learning with others.
+
+- HTB: https://discord.com/invite/hackthebox
+- Python: https://discord.com/invite/python
+
 # Other links
 
 - https://help.hackthebox.com/en/articles/8117054-guided-mode-for-machines
