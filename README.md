@@ -172,7 +172,12 @@ Books: "Gray Hat Python" by Justin Seitz & "Python for Cybersecurity" by Howard 
 
 Work on a comprehensive capstone project integrating Python programming and cybersecurity concepts.
 Review key topics and prepare a presentation or report on the project.
-This outline provides a structured path through both Python programming and cybersecurity, with a focus on hands-on projects to solidify learning.
+
+Capstone ideas:
+
+- Network Security Suite: A tool to scan networks, detect common flaws, try to exploit them, monitor traffic, and generate reports
+- Web Application Security Testing Framework: A tool to crawl webpages, identify exploits, scan for SQLi and XSS, automatically exploit potential vulnerabilities, and provide remediation advice
+- IoT Security Analysis and Defense System: A tool to discover IoT devices, to scan specific protocols like MQTT and CoAP, and a defense system like a firewall and intrusion detection system for IoT networks.
 
 # 6-Month Course Outline: Python Programming and Cybersecurity with Hack The Box
 
@@ -302,3 +307,11 @@ Focus on areas of interest or weaknesses identified during the course.
 Finalize the capstone project.
 Prepare a presentation or report on the capstone project.
 Review key concepts and skills learned throughout the course.
+
+Capstone ideas:
+- Automated Penetration Testing Toolkit: A toolkit that automates various pentest tasks, from recon to exploits, using Python. Recon tools to gather info about targets, a vulnerability scanner to identify vulnerabilities, exploit scripts to test identified vulnerabilities, and post-exploitation tools to maintain access and gather further data
+- Cybersecurity Incident Response System: Create a system to manage and respond to cybersecurity incidents, including detection, analysis, and remediation. Create an incident detection module using log analysis and anomaly detection. Create an incident analysis tool to investigate and understand the nature of the threat. Create automated remediation scripts to contain and eliminate the threat. Create a reporting tool to document incidents.
+- Web Application Firewall (WAF) with Machine Learning: Build a web application firewall that uses machine learning to detect and block malicious traffic. Create a traffic monitoring module to capture and analyze web traffic. Use a machine learning model to identify patterns indicative of attacks. Create a blocking mechanism to prevent malicious requests from reaching the web application. Create a reporting tool to provide insights into blocked attacks and overall security posture.
+
+
+
