@@ -19,6 +19,7 @@ Total cost: ~$210. Only cost is a Lenovo laptop and a Linux USB to install Fedor
 - python editor: https://www.jetbrains.com/pycharm/
 - code editor: https://code.visualstudio.com/
 - network scanner: https://nmap.org/
+  - https://github.com/RustScan/RustScan
 
 # Discord
 
