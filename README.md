@@ -2,7 +2,7 @@
 
 a plan to learn cybersec and python for total noobs. can take 6 months (Python+HTB) or 12 months (Python only). Or, mix and match content from months to suit you.
 
-Total cost: ~$210. Only cost is a Lenovo laptop and a Linux USB to install Fedora/Ubuntu. Everything else is totally free.
+Total cost: ~$210 upfront, $30 monthly. Only cost is a Lenovo laptop and a Linux USB to install Fedora/Ubuntu. Everything else is totally free.
 
 # Sites
 
@@ -20,6 +20,10 @@ Total cost: ~$210. Only cost is a Lenovo laptop and a Linux USB to install Fedor
 - code editor: https://code.visualstudio.com/
 - network scanner: https://nmap.org/
   - https://github.com/RustScan/RustScan
+- ChatGPT for $20/mo: https://chat.openai.com/
+  - Useful to ask questions. i.e. "How can I run a port scan on this host?" or "Why is this Python function declared like this?"
+- GitHub Copilot for $10/mo: https://github.com/features/copilot
+  - Same use as ChatGPT. Experiment with both and see what you like. Bonus of this is that it gets IDE integrations, and ChatGPT does not.
 
 # Discord
 
