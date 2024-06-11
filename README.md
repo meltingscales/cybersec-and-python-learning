@@ -2,19 +2,28 @@
 
 a plan to learn cybersec and python for total noobs. can take 6 months (Python+HTB) or 12 months (Python only). Or, mix and match content from months to suit you.
 
-Total cost: ~$200. Only cost is Lenovo laptop.
+Total cost: ~$210. Only cost is a Lenovo laptop and a Linux USB to install Fedora/Ubuntu. Everything else is totally free.
 
 # Sites
 
-- https://libgen.is/ - for all textbooks
+- https://libgen.is/ - for all textbooks, free books, etc
 - https://hackthebox.com/ - for learning pentesting
+- https://book.hacktricks.xyz/ - how to hack specific services
+- https://www.codecademy.com/ - learning to code
 
 # Tools
 
 - Fedora for programming (OS): https://fedoraproject.org/workstation/download
 - ParrotOS for hacking (OS): https://www.parrotsec.org/download/
 - 256GB SSD, 8GB RAM ThinkPad for ~$200: https://www.ebay.com/b/Lenovo-ThinkPad-PC-Laptops-Netbooks/177/bn_7115838996
-- https://nmap.org/
+- python editor: https://www.jetbrains.com/pycharm/
+- code editor: https://code.visualstudio.com/
+- network scanner: https://nmap.org/
+
+# Other links
+
+- https://help.hackthebox.com/en/articles/8117054-guided-mode-for-machines
+- https://www.youtube.com/watch?v=jQ194vU4Qkk
 
 # Material
 
