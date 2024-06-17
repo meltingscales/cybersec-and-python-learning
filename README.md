@@ -1,4 +1,4 @@
-# cybersec-and-python-learning
+# Cybersecurity and Python Learning for noobs
 
 a plan to learn cybersec and python for total noobs. can take 6 months (Python+HTB) or 12 months (Python only). Or, mix and match content from months to suit you.
 
@@ -320,3 +320,6 @@ Capstone ideas:
 
 
 
+# Project-based learning course outlines
+
+TBD.
